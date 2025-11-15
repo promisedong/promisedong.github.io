@@ -9,149 +9,68 @@ redirect_from:
 ---
 
 #  About Me
+I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present), supervised by Associate Professor [Xianjun Gao (高贤君)](https://docs.qq.com/doc/p/76da31c6cda04500fe45b018397cd66127051a55?dver=3.0.27429706). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://rtxy.xnu.edu.cn/2021_05/31_09/content-59431.html)..
 
-I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu (刘萍萍)](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Tiangong University (09/2018–03/2021) under Professor [Yuelong Li (李月龙)](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Uniview Technologies. (04/2021–06/2023).  
- 
-My primary research focuses on **Low-Level Vision**, particularly **Low-Light Image Enhancement (LLIE)** (essential for robustness in real-world vision systems). I also actively investigate related areas including **Other Image Enhancement Tasks**, **Domain Generalization**, **Contrastive Learning**, and **Metric Learning**.  
- 
+My primary research area focuses on **Low-Level Vision** tasks, specifically **Low-Light Image Enhancement** **(LLIE)**, *where achieving strong generalization capability is the core problem we aim to address*. During my time as an **assistant research** fellow, I also conducted parallel research in other directions, including **Domain Adaptation** (with an emphasis on *high-resolution remote sensing imagery* and multi-source domain adaptation) and **medical image segmentation** (targeting highly complex and variable clinical scenarios, where I achieved strong generalization performance across multiple medical datasets). I am currently applying for **Ph.D.** programs in **Computer Science**.
+
 For collaborations or inquiries, please feel free to contact me via email.
 
 
 #  News
-- *11/2025*: &nbsp; Two paper about LLIE (Frequency Fusion, Frequency & Mamba) accepted to AAAI 2026.
-- *09/2025*: &nbsp; Two paper about LLIE (Fourier & MoE, Unsupervised Retinex-based) accepted to ESWA.
-- *07/2025*: &nbsp; One paper about LLIE (Causal Wavelet) accepted to ICCV 2025.
-- *06/2025*: &nbsp; One paper about LLIE (Multi-modal Fusion) accepted to ESWA.
-- *05/2025*: &nbsp; One paper about LLIE (Retinex) accepted to INFFUS.
-- *03/2025*: &nbsp; One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
-- *07/2024*: &nbsp; One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
+- *05/2025*: &nbsp; One paper about Domain Adapation (*Uncertainty Entropy, Pseudo-Label learning*) accepted to ***TGRS***.
+- *04/2025*: &nbsp; Two paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery; Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
 
 #  Selected Publications <!-- {#publications} -->
 
 \* and † denote a corresponding author and an equal-contribution author, respectively.
-  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/PTDA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration* [[PDF]](https://arxiv.org/abs/2508.04041) [[Code]](https://github.com/bywlzts/SPJFNet)
 
-**Tongshun Zhang**, Pingping Liu*, Zijian Zhang, Qiuzhan Zhou
+*PTDA: Progressive Pseudo-Label Learning for Cross-Domain Cloud Detection in High-Resolution Remote Sensing* [[PDF]](https://ieeexplore.ieee.org/document/10998457/) [[Code]](https://github.com/gasking/PTDA)
+
+**Jin Kuang**, Xianjun Gao*, Yuanwei Yang, Siyuan Dong, Ji Dong, Yuan Kou, Meilin Tan, Zhiwei Wang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/AFDSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2508.03338) [[Code]](https://github.com/bywlzts/CIVQLLIE)
 
-**Tongshun Zhang**, Pingping Liu*, Zhe Zhang, Qiuzhan Zhou
+*Adaptive frequency-domain enhanced deep model driven by heterogeneous
+networks for medical image segmentation* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
+
+**Dong Liu**, Jin Kuang*,†
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/SFGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration* [[PDF]](https://arxiv.org/abs/2508.03336) [[Code]](https://github.com/bywlzts/RFGM)
 
-**Tongshun Zhang**, Pingping Liu*, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
+
+*SFGNet: Salient-feature-guided real-time building extraction network for
+remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
+
+**Jin Kuang**, Dong Liu*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/U2CLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2506.18346) [[Code]](https://github.com/bywlzts/BSMamba)
+*Uncertainty-Aware Spatial Color Correlation for Low-Light Image Enhancement* [[PDF]](https://www.arxiv.org/abs/2508.04176) [[Code]](https://github.com/promisedong/U2CLLIE)
 
-**Tongshun Zhang**, Pingping Liu*, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*CWNet: Causal Wavelet Network for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2507.10689) [[Code]](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
-
-**Tongshun Zhang**, Pingping Liu*, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhang, Qiuzhan Zhou
+**Jin Kuang**, Dong Liu*, Yukuang Zhang, Shengsheng Wang
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/DMFourLLIE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2412.00683) [[Code]](https://github.com/bywlzts/DMFourLLIE)
-
-**Tongshun Zhang**, Pingping Liu*, Ming Zhao, Haotian Lv
-
-</div>
-</div>
-
-*Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (INFFUS IF=18.6), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531) [[Code]](https://github.com/bywlzts/CMRetinexNet)
-
-**Tongshun Zhang**, Pingping Liu*, Mengen Cai, Xiaoyi Wang, Qiuzhan Zhou
-
----
-
-*APMoE-Net: Fourier Amplitude-Phase Joint Enhancement and MoE Compensation for Low-Light lmage Enhancement (ESWA IF=8.5), 2025*
-
-Mengen Cai, **Tongshun Zhang †**, Pingping Liu*, Qiuzhan Zhou
-
----
-
-*Differentiable histogram-guided unsupervised Retinex enhancement for paired low-light images (ESWA IF=8.5), 2025* [[Code]](https://github.com/yoonyin/DHURE-main)
-
-Liyuan Yin, Pingping Liu*, **Tongshun Zhang**, Hongwei Zhao, Qiuzhan Zhou
-
----
-
-
-*WEC-DG: Multi-Exposure Wavelet Correction Method Guided by Degradation Description (Arxiv), 2025* [[PDF]](https://arxiv.org/pdf/2508.09565)
-
-Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
-
----
-
-*ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
-
-Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
-
----
-
-*Multi-modal fusion guided retinex-based low-light image enhancement (ESWA IF=8.5), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022729)
-
-Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
-
----
-
-*Adaptive illumination and noise-free detail recovery via visual decomposition for low-light image enhancement (CVIU IF=4.8), 2025* 
-
-Pingping Liu*, Tianqi Li, Qiuzhan Zhou, **Tongshun Zhang**
 
 
 #  Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI)
-- ACM International Conference on Multimedia (ACM MM)
-- IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Image Processing (TIP)
-
-#  Patents
-- 无监督曝光矫正的曝光偏差增强网络模型构建方法、系统 （CN120318103B）2025 刘萍萍;尹莉媛;**张同顺**;王晓艺;周求湛
-- 一种低光图像增强方法、系统、设备以及存储介质 （CN119090751B）2025 刘萍萍;李天奇;周求湛;**张同顺**;卢禹冰
-- 一种低光图像增强方法及系统 （CN119379551B）2025 刘萍萍;**张同顺**;蔡蒙恩;张哲;王晓艺;周求湛
-- 一种低光图像增强方法、系统、设备以及存储介质 (CN120374475A) 2025 刘萍萍; 王晓艺; **张同顺**; 尹莉媛; 周求湛; 侯建华
-- 基于Retinex约束下的生成式结构低照度图像增强方法 (CN120495108A) 2025 	周求湛;杨迪;武慧南;**张同顺**;王聪;刘萍萍
-
-#  Awards & Achievements
-- [10/2025] National Scholarship (国家奖学金)
-- [09/2025] I was invited to give a lecture at Xiangnan University, focusing on lightweight reconstruction for low-light enhancement.
-- [09/2025] 2024-2025 Graduate Outstanding Scholarship (研究生优秀奖学金)
-- [09/2025] 2024-2025 Outstanding Graduate Students (优秀研究生)
-- [09/2025] China FAW Group Scholarship (中国一汽奖学金)
-- [04/2025] DMFourLLIE was selected for poster presentation at Valse 2025. [Link](https://valser.org/2025/#/poster)
-- [11/2024] DMFourLLIE was selected for the "Academic Research and Discussion (研学论道)" report at Jilin University.
-- [10/2024] 2023-2024 Graduate Outstanding Scholarship (研究生优秀奖学金)
-- [10/2024] 2023-2024 Outstanding Graduate Students (优秀研究生)
+- Knowledge-Based Systems (KBS)
