@@ -9,10 +9,10 @@ author_profile: true
 ---
 
 
-#  &#x1F600; About Me
+#  &#x1F393; About Me
 I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present), supervised by Associate Professor [Xianjun Gao (高贤君)](https://docs.qq.com/doc/p/76da31c6cda04500fe45b018397cd66127051a55?dver=3.0.27429706). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://rtxy.xnu.edu.cn/2021_05/31_09/content-59431.html).
 
-My primary research area focuses on **Low-Level Vision** tasks, specifically **Low-Light Image Enhancement** **(LLIE)**, *where achieving strong generalization capability is the core problem we aim to address*. During my time as an **assistant research** fellow, I also conducted parallel research in other directions, including **Domain Adaptation** (with an emphasis on *high-resolution remote sensing imagery* and multi-source domain adaptation) and **medical image segmentation** (targeting highly complex and variable clinical scenarios, where I achieved strong generalization performance across multiple medical datasets). I am currently applying for **Ph.D.** programs in **Computer Science**.
+My primary research area focuses on **Low-Level Vision** tasks, specifically **Low-Light Image Enhancement** **(LLIE)**, *where achieving strong generalization capability is the core problem we aim to address*. During my time as an **assistant research** fellow, I also conducted parallel research in other directions, including **Domain Adaptation** (with an emphasis on **High-Resolution Remote Sensing Imagery** and multi-source domain adaptation) and **Medical Image Segmentation** (targeting highly complex and variable clinical scenarios, where I achieved strong generalization performance across multiple medical datasets). I am currently applying for **Ph.D.** programs in **Computer Science**.
 
 For collaborations or inquiries, please feel free to contact me via email.
 
