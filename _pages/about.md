@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 #  &#x1F600; About Me
 I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present), supervised by Associate Professor [Xianjun Gao (高贤君)](https://docs.qq.com/doc/p/76da31c6cda04500fe45b018397cd66127051a55?dver=3.0.27429706). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://rtxy.xnu.edu.cn/2021_05/31_09/content-59431.html).
 
