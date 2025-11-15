@@ -1,4 +1,4 @@
-#  :grin: About Me
+#  &#x1F600; About Me
 I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present), supervised by Associate Professor [Xianjun Gao (高贤君)](https://docs.qq.com/doc/p/76da31c6cda04500fe45b018397cd66127051a55?dver=3.0.27429706). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://rtxy.xnu.edu.cn/2021_05/31_09/content-59431.html).
 
 My primary research area focuses on **Low-Level Vision** tasks, specifically **Low-Light Image Enhancement** **(LLIE)**, *where achieving strong generalization capability is the core problem we aim to address*. During my time as an **assistant research** fellow, I also conducted parallel research in other directions, including **Domain Adaptation** (with an emphasis on *high-resolution remote sensing imagery* and multi-source domain adaptation) and **medical image segmentation** (targeting highly complex and variable clinical scenarios, where I achieved strong generalization performance across multiple medical datasets). I am currently applying for **Ph.D.** programs in **Computer Science**.
@@ -6,11 +6,11 @@ My primary research area focuses on **Low-Level Vision** tasks, specifically **L
 For collaborations or inquiries, please feel free to contact me via email.
 
 
-#  :mega: News
-- *05/2025*: &nbsp; :tada: :tada: One paper about Domain Adapation (*Uncertainty Entropy, Pseudo-Label learning*) accepted to ***TGRS***.
-- *04/2025*: &nbsp;  :tada: :tada: Two paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery; Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
+#  &#128227; News
+- *05/2025*: &nbsp; &#127881; &#127881; One paper about Domain Adapation (*Uncertainty Entropy, Pseudo-Label learning*) accepted to ***TGRS 2025***.
+- *04/2025*: &nbsp;  &#127881; &#127881; Two paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery; Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS 2025***.
 
-#  :books: Selected Publications
+#  &#128218; Selected Publications
 
 \* and † denote a corresponding author and an equal-contribution author, respectively.
 
@@ -62,6 +62,6 @@ remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs
 </div>
 
 
-#  :mag_right: Reviewer
+#  &#128269; Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI)
 - Knowledge-Based Systems (KBS)
