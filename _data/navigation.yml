@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected-Publications"
+    url: "/#-selected-publications"
 
   - title: "Patents"
     url: "/#-selected-patents"
@@ -22,4 +22,4 @@ main:
     url: "/#-courses-taught"
 
   - title: "Student Awards (Selected)"
-    url: "/#-student-awards-(selected)"
+    url: "/#-student-awards"
