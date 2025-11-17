@@ -2,7 +2,7 @@
 main:
 
   - title: "HomePage"
-    url: "/"
+    url: "/#-introduction"
     
   - title: "Introduction"
     url: "/#-introduction"
