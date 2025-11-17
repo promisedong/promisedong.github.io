@@ -17,11 +17,11 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 
 #  &#128227; News
-- *06/2025*: &nbsp;  :tada: :tada: One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
-- *05/2025*: &nbsp;  :tada: :tada: One paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery*) accepted to ***KBS***.
-- *04/2025*: &nbsp;  :tada: :tada: One paper about Segmentation (*; Open-Set Domain Adpation*) accepted to ***Complex \&  Intelligent Systems***.
-- *12/2024*: &nbsp;  :tada: :tada: One paper about Domain Adapation (*Prototype optimal transport*) accepted to ***Complex \&  Intelligent Systems***.
-- *09/2024*: &nbsp;  :tada: :tada: One paper about Medical Segmentation (*colonoscopic polyp segmentation*) accepted to ***Scientific Reports***.
+- *06/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
+- *05/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery*) accepted to ***KBS***.
+- *04/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*; Open-Set Domain Adpation*) accepted to ***Complex \&  Intelligent Systems***.
+- *12/2024*: &nbsp;  &#127881; &#127881; One paper about Domain Adapation (*Prototype optimal transport*) accepted to ***Complex \&  Intelligent Systems***.
+- *09/2024*: &nbsp;  &#127881; &#127881; One paper about Medical Segmentation (*colonoscopic polyp segmentation*) accepted to ***Scientific Reports***.
 
 #  :books: Selected Publications
 \* and † denote a corresponding author and an equal-contribution author, respectively.
@@ -40,8 +40,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='../images/AFDSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Adaptive frequency-domain enhanced deep model driven by heterogeneous
-networks for medical image segmentation* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
+*Adaptive frequency-domain enhanced deep model driven by heterogeneous networks for medical image segmentation* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
 
 **Dong Liu**, Jin Kuang*,†
 
@@ -51,18 +50,14 @@ networks for medical image segmentation* [[PDF]](https://www.sciencedirect.com/s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='.././images/SFGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-
-*SFGNet: Salient-feature-guided real-time building extraction network for
-remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
+*SFGNet: Salient-feature-guided real-time building extraction network for remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
 
 **Jin Kuang**, Dong Liu*
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex \&  Intelligent Systems 2025</div><img src='../images/SPOT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/SPOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Sample-Prototype Optimal Transport-Based Universal Domain Adaptation for Remote Sensing Image Classification* [[PDF]](https://link.springer.com/article/10.1007/s40747-024-01747-y) [[Code]](https://github.com/promisedong/)
@@ -72,12 +67,12 @@ Xiaosong Chen, Yongso Yang, Dong Liu*, Shengsheng Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex \&  Intelligent Systems 2025</div><img src='../images/EOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/EOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Energy-based Open Set Domain Adaptation with Dynamic Weighted Synergistic Mechanism* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
 
-Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai. 
+Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai.
 
 </div>
 </div>
@@ -89,43 +84,79 @@ Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai.
 
 **Dong Liu**, Chao Lu, Haonan Sun, Shoupin Gao*
 
-
-
-<div class='paper-box-text'>
-*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)*
 </div>
+</div>
+
+<!-- 为后续论文添加完整的paper-box结构 -->
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)*
+
 **Dong Liu**, Lingrong Zhang, Jinglin Yang, Anping Lin*
 
-<div class='paper-box-text'>
-*Anomaly Detection in Chest X-Rays Based on Dual Attention Mechanism and Multi-Scale Feature Fusion (Symmetry-Basel 2023)*
 </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*Anomaly Detection in Chest X-Rays Based on Dual Attention Mechanism and Multi-Scale Feature Fusion (Symmetry-Basel 2023)*
+
 **Dong Liu**, Shuzhen Lu, Lingrong Zhang, Yaohui Liu*
 
-<div class='paper-box-text'>
-*Heterogeneous differential evolution particle swarm optimization with local search (Complex \& Intelligent Systems 2023)*
 </div>
-**Anping Lin**,  Dong Liu*, Zhongqi Li, *et al*
+</div>
 
-<div class='paper-box-text'>
-*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)*
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*Heterogeneous differential evolution particle swarm optimization with local search (Complex & Intelligent Systems 2023)*
+
+**Anping Lin**, Dong Liu*, Zhongqi Li, *et al*
+
 </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)*
+
 **Hengyuan Na**, Dong Liu*, Shengsheng Wang
 
-
-<div class='paper-box-text'>
-*On nonlinear fractional Choquard equation with indefinite potential and general nonlinearity (Boundary Value Problems 2023)*
 </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*On nonlinear fractional Choquard equation with indefinite potential and general nonlinearity (Boundary Value Problems 2023)*
+
 **Fangfang Liao**, Fulai Chen, Shifeng Geng, Dong Liu*
 
-<div class='paper-box-text'>
-*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (云南大学学报 2022)*
 </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (云南大学学报 2022)*
+
 **刘东**, 陈境宇, 王生生*
 
-<div class='paper-box-text'>
-*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (重庆大学学报 2021)*
 </div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (重庆大学学报 2021)*
+
 **刘东**，王生生*
+
+</div>
+</div>
 
 # &#x1F4D6; Selected Patents
 - **发明专利:**  一种中耳炎医学影像处理方法及系统 (ZL202410985032.5) **刘东**，高守平，雷冠雄
