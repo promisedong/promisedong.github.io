@@ -19,8 +19,8 @@ For collaborations or inquiries, please feel free to contact me via email.
 #  &#128227; News
 - *06/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
 - *05/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery*) accepted to ***KBS***.
-- *04/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*; Open-Set Domain Adpation*) accepted to ***Complex \&  Intelligent Systems***.
-- *12/2024*: &nbsp;  &#127881; &#127881; One paper about Domain Adapation (*Prototype optimal transport*) accepted to ***Complex \&  Intelligent Systems***.
+- *04/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*; Open-Set Domain Adpation*) accepted to ***Complex &  Intelligent Systems***.
+- *12/2024*: &nbsp;  &#127881; &#127881; One paper about Domain Adapation (*Prototype optimal transport*) accepted to ***Complex &  Intelligent Systems***.
 - *09/2024*: &nbsp;  &#127881; &#127881; One paper about Medical Segmentation (*colonoscopic polyp segmentation*) accepted to ***Scientific Reports***.
 
 #  &#128218; Selected Publications
