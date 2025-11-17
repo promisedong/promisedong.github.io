@@ -87,7 +87,7 @@ Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai.
 </div>
 </div>
 
-<!-- 为后续论文添加完整的paper-box结构 -->
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -172,7 +172,7 @@ Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai.
 - AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Knowledge-Based Systems (KBS)
-- Complex \& Intelligent Systems
+- Complex & Intelligent Systems
 
 # &#x1F3C6; Professional Honors
 - 2024年湖南省普通高校青年教师教学竞赛二等奖
