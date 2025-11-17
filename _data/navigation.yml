@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#-about-me"
+  - title: "Introduction"
+    url: "/#-Introduction"
 
   - title: "News"
     url: "/#-news"
@@ -9,5 +9,17 @@ main:
   - title: "Publications"
     url: "/#-selected-publications"
 
-  - title: "Reviewer"
-    url: "/#-reviewer"
+  - title: "Patents"
+    url: "/#-Selected Patents"
+
+  - title: "Professional Service"
+    url: "/#-Professional-Service"
+
+  - title: "Professional Honors"
+    url: "/#-Professional-Honors"
+
+  - title: "Courses Taught"
+    url: "/#-Courses-Taught"
+
+  - title: "Student Awards (Selected)"
+    url: "/#-Student-Awards-(Selected)"
