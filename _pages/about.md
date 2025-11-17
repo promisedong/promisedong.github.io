@@ -16,14 +16,14 @@ Dong Liu is a Professor at the School of Computer Science and Artificial Intelli
 For collaborations or inquiries, please feel free to contact me via email.
 
 
-#  &#128227; News
+#  &#128227; News
 - *06/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
 - *05/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery*) accepted to ***KBS***.
 - *04/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*; Open-Set Domain Adpation*) accepted to ***Complex \&  Intelligent Systems***.
 - *12/2024*: &nbsp;  &#127881; &#127881; One paper about Domain Adapation (*Prototype optimal transport*) accepted to ***Complex \&  Intelligent Systems***.
 - *09/2024*: &nbsp;  &#127881; &#127881; One paper about Medical Segmentation (*colonoscopic polyp segmentation*) accepted to ***Scientific Reports***.
 
-#  :books: Selected Publications
+#  &#128218; Selected Publications
 \* and † denote a corresponding author and an equal-contribution author, respectively.
 
 
@@ -190,7 +190,7 @@ Zihao Fu, Dong Liu*, Shengsheng Wang, Hao Chai.
 - 湖南省大学生创新创业精品课程：《人工智能（实训）》
 - 《人工智能导论》
 
-# &#x1F31F; Student Awards (Selected)
+# &#x1F31F; Student Awards
 - 2024年“挑战杯”全国大学生创业计划竞赛全国总决赛铜奖，省级金奖
 - 2023年“挑战杯”全国大学生课外学术科技作品竞赛主赛道国家级三等奖，省级金奖
 - 2023年“中国软件杯”大学生软件设计大赛国家级三等奖
