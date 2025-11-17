@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jin Kuang (匡金)"
-description              : "gasquue@gmail.com"
-repository               : "https://gasking.github.io/"
+title                    : "Dong Liu (刘东)"
+description              : "liudong@xnu.edu.cn"
+repository               : "https://promisedong.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jin Kuang"
-  avatar           : "images/MyPhoto.png"
-  bio              : "Assistant Researcher at the Hunan Provincial Engineering Research Center for Advanced Embedded Computing Technology and Intelligent Medical Systems; M.S. Candidate at Yangtze University."
-  location         : "Wuhan, China"
+  name             : "Dong Liu"
+  avatar           : "images/MyPhoto.jpg"
+  bio              : "Professor and Associate Dean at the School of Computer Science and Artificial Intelligence, Xiangnan University, and Deputy Director of the Hunan Provincial Engineering Research Center for Advanced Embedded Computing Technology and Intelligent Medical Systems."
+  location         : "ChenZhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Pb6NookAAAAJ&hl=zh-CN"
-  email            :
- # researchgate     :  
+  #googlescholar    : "https://scholar.google.com/citations?user=Pb6NookAAAAJ&hl=zh-CN"
+  email            : "liudong@xnu.edu.cn"
+ # researchgate     :  "https://www.researchgate.net/profile/Tongshun-Zhang-2/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "promisedong" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0000-1907-8893"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4095-7531"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -145,7 +145,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-#  - jekyll-redirect-from
+  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
