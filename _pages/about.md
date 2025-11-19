@@ -30,7 +30,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/U2CLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Uncertainty-Aware Spatial Color Correlation for Low-Light Image Enhancement* [[PDF]](https://www.arxiv.org/abs/2508.04176) [[Code]](https://github.com/promisedong/U2CLLIE)
+*Uncertainty-Aware Spatial Color Correlation for Low-Light Image Enhancement (Arxiv 2025)* [[PDF]](https://www.arxiv.org/abs/2508.04176) [[Code]](https://github.com/promisedong/U2CLLIE)
 
 Jin Kuang, **Dong Liu***, Yukuang Zhang, Shengsheng Wang
 
@@ -40,7 +40,7 @@ Jin Kuang, **Dong Liu***, Yukuang Zhang, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='../images/AFDSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Adaptive frequency-domain enhanced deep model driven by heterogeneous networks for medical image segmentation* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
+*Adaptive frequency-domain enhanced deep model driven by heterogeneous networks for medical image segmentation (Knowledge-Based Systems 2025, CCF C)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
 
 **Dong Liu**, Jin Kuang*,†
 </div>
@@ -49,7 +49,7 @@ Jin Kuang, **Dong Liu***, Yukuang Zhang, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='.././images/SFGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*SFGNet: Salient-feature-guided real-time building extraction network for remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
+*SFGNet: Salient-feature-guided real-time building extraction network for remote sensing images (Knowledge-Based Systems 2025, CCF C)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
 
 Jin Kuang, **Dong Liu***
 
@@ -59,7 +59,7 @@ Jin Kuang, **Dong Liu***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/SPOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Sample-Prototype Optimal Transport-Based Universal Domain Adaptation for Remote Sensing Image Classification* [[PDF]](https://link.springer.com/article/10.1007/s40747-024-01747-y) [[Code]](https://github.com/promisedong/)
+*Sample-Prototype Optimal Transport-Based Universal Domain Adaptation for Remote Sensing Image Classification (Complex & Intelligent Systems 2025)* [[PDF]](https://link.springer.com/article/10.1007/s40747-024-01747-y) [[Code]](https://github.com/promisedong/)
 
 Xiaosong Chen, Yongso Yang, **Dong Liu***, Shengsheng Wang
 
@@ -69,7 +69,7 @@ Xiaosong Chen, Yongso Yang, **Dong Liu***, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/EOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Energy-based Open Set Domain Adaptation with Dynamic Weighted Synergistic Mechanism* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
+*Energy-based Open Set Domain Adaptation with Dynamic Weighted Synergistic Mechanism (Complex & Intelligent Systems 2025)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
 
 Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 
@@ -79,33 +79,34 @@ Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2024</div><img src='../images/NAFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*NA-segformer: A multi-level transformer model based on neighborhood attention for colonoscopic polyp segmentation* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
+*NA-segformer: A multi-level transformer model based on neighborhood attention for colonoscopic polyp segmentation (Scientific Reports 2024)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
 
 **Dong Liu**, Chao Lu, Haonan Sun, Shoupin Gao*
 
 </div>
 </div>
 
-
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences-Basel 2023</div><img src='../images/Lenke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)*
+*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)* [[PDF]]([https://link.springer.com/article/10.1007/s40747-025-01857-1]
 
 **Dong Liu**, Lingrong Zhang, Jinglin Yang, Anping Lin*
 
 </div>
 </div>
 
-<div class='paper-box'>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Symmetry-Basel 2023</div><img src='../images/objection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Anomaly Detection in Chest X-Rays Based on Dual Attention Mechanism and Multi-Scale Feature Fusion (Symmetry-Basel 2023)*
+*Anomaly Detection in Chest X-Rays Based on Dual Attention Mechanism and Multi-Scale Feature Fusion (Symmetry-Basel 2023)* [[PDF]]([https://www.mdpi.com/2073-8994/15/3/668])
 
-**Dong Liu**, Shuzhen Lu, Lingrong Zhang, Yaohui Liu*
+**Dong Liu**, Lingrong Zhang, Jinglin Yang, Anping Lin*
 
 </div>
 </div>
+
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
@@ -117,10 +118,10 @@ Anping Lin, **Dong Liu***, Zhongqi Li, *et al*
 </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2023</div><img src='../images/ED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)*
+*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)* [[PDF]]([https://www.mdpi.com/2079-9292/12/3/763])
 
 Hengyuan Na, **Dong Liu***, Shengsheng Wang
 
