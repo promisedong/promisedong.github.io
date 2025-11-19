@@ -89,7 +89,7 @@ Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences-Basel 2023</div><img src='../images/Lenke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)* [[PDF]]([https://link.springer.com/article/10.1007/s40747-025-01857-1]
+*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)* [[PDF]]([https://link.springer.com/article/10.1007/s40747-025-01857-1])
 
 **Dong Liu**, Lingrong Zhang, Jinglin Yang, Anping Lin*
 
