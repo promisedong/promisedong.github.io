@@ -122,7 +122,7 @@ Anping Lin, **Dong Liu***, Zhongqi Li, *et al*
 
 *An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)*
 
-Hengyuan Na, **Dong Liu**, Shengsheng Wang
+Hengyuan Na, **Dong Liu***, Shengsheng Wang
 
 </div>
 </div>
