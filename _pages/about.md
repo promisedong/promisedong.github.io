@@ -40,7 +40,7 @@ Jin Kuang, **Dong Liu***, Yukuang Zhang, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='../images/AFDSeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Adaptive frequency-domain enhanced deep model driven by heterogeneous networks for medical image segmentation (Knowledge-Based Systems 2025, CCF C)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
+*Adaptive frequency-domain enhanced deep model driven by heterogeneous networks for medical image segmentation (Knowledge-Based Systems 2025, CAS Q1)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006458) [[Code]](https://github.com/promisedong/AFDSeg)
 
 **Dong Liu**, Jin Kuang*,†
 </div>
@@ -49,7 +49,7 @@ Jin Kuang, **Dong Liu***, Yukuang Zhang, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='.././images/SFGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*SFGNet: Salient-feature-guided real-time building extraction network for remote sensing images (Knowledge-Based Systems 2025, CCF C)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
+*SFGNet: Salient-feature-guided real-time building extraction network for remote sensing images (Knowledge-Based Systems 2025, CAS Q1)* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004605) [[Code]](https://github.com/promisedong/SFGNet)
 
 Jin Kuang, **Dong Liu***
 
@@ -59,7 +59,7 @@ Jin Kuang, **Dong Liu***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/SPOT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Sample-Prototype Optimal Transport-Based Universal Domain Adaptation for Remote Sensing Image Classification (Complex & Intelligent Systems 2025)* [[PDF]](https://link.springer.com/article/10.1007/s40747-024-01747-y) [[Code]](https://github.com/promisedong/)
+*Sample-Prototype Optimal Transport-Based Universal Domain Adaptation for Remote Sensing Image Classification (Complex & Intelligent Systems 2024, CAS Q2)* [[PDF]](https://link.springer.com/article/10.1007/s40747-024-01747-y) [[Code]](https://github.com/promisedong/)
 
 Xiaosong Chen, Yongso Yang, **Dong Liu***, Shengsheng Wang
 
@@ -69,7 +69,7 @@ Xiaosong Chen, Yongso Yang, **Dong Liu***, Shengsheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Complex & Intelligent Systems 2025</div><img src='../images/EOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Energy-based Open Set Domain Adaptation with Dynamic Weighted Synergistic Mechanism (Complex & Intelligent Systems 2025)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
+*Energy-based Open Set Domain Adaptation with Dynamic Weighted Synergistic Mechanism (Complex & Intelligent Systems 2025, CAS Q3)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
 
 Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 
@@ -79,7 +79,7 @@ Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports 2024</div><img src='../images/NAFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*NA-segformer: A multi-level transformer model based on neighborhood attention for colonoscopic polyp segmentation (Scientific Reports 2024)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
+*NA-segformer: A multi-level transformer model based on neighborhood attention for colonoscopic polyp segmentation (Scientific Reports 2024, CAS Q2)* [[PDF]](https://link.springer.com/article/10.1007/s40747-025-01857-1) [[Code]](https://github.com/promisedong/)
 
 **Dong Liu**, Chao Lu, Haonan Sun, Shoupin Gao*
 
@@ -89,7 +89,7 @@ Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences-Basel 2023</div><img src='../images/Lenke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023)* [[PDF]]([https://link.springer.com/article/10.1007/s40747-025-01857-1])
+*Lenke classification of scoliosis based on segmentation network and adaptive shape descriptor (Applied Sciences-Basel 2023, CAS Q3)* [[PDF]]([https://link.springer.com/article/10.1007/s40747-025-01857-1])
 
 **Dong Liu**, Lingrong Zhang, Jinglin Yang, Anping Lin*
 
@@ -111,7 +111,7 @@ Zihao Fu, **Dong Liu***, Shengsheng Wang, Hao Chai.
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-*Heterogeneous differential evolution particle swarm optimization with local search (Complex & Intelligent Systems 2023)*
+*Heterogeneous differential evolution particle swarm optimization with local search (Complex & Intelligent Systems 2023, CAS Q2)*
 
 Anping Lin, **Dong Liu***, Zhongqi Li, *et al*
 
@@ -121,7 +121,7 @@ Anping Lin, **Dong Liu***, Zhongqi Li, *et al*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics 2023</div><img src='../images/ED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023)* [[PDF]]([https://www.mdpi.com/2079-9292/12/3/763])
+*An Attention-Based Uncertainty Revising Network with Multi-Loss for Environmental Microorganism Segmentation (Electronics 2023, CAS Q3)* [[PDF]]([https://www.mdpi.com/2079-9292/12/3/763])
 
 Hengyuan Na, **Dong Liu***, Shengsheng Wang
 
@@ -141,7 +141,7 @@ Fangfang Liao, Fulai Chen, Shifeng Geng, **Dong Liu***
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (云南大学学报 2022)*
+*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (云南大学学报 2022, CSCD-C)*
 
 **刘东**, 陈境宇, 王生生*
 
@@ -151,7 +151,7 @@ Fangfang Liao, Fulai Chen, Shifeng Geng, **Dong Liu***
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (重庆大学学报 2021)*
+*基于空间自适应和混合损失对抗网络的乳腺肿块图像分割方法 (重庆大学学报 2021, CSCD-C)*
 
 **刘东**，王生生*
 
@@ -161,8 +161,8 @@ Fangfang Liao, Fulai Chen, Shifeng Geng, **Dong Liu***
 # &#x1F4D6; Selected Patents
 - **发明专利:**  一种中耳炎医学影像处理方法及系统 (ZL202410985032.5) **刘东**，高守平，雷冠雄
 - **发明专利:** 一种脊柱侧弯Lenke分型系统 (ZL202211507294.8) **刘东**，张灵荣，杨景麟
-- **实用新型:** 一种基于计算机视觉的元件缺陷检测装置 (ZL202123168909.2) **刘东**
-- **软件著作权:** 基于计算机视觉的零部件表面缺陷检测系统 (2022SR1000030) **刘东**
+- **实用新型:** 一种基于计算机视觉的元件缺陷检测装置 (ZL202123168909.2) **刘东**，张灵荣，杨景麟，谈雨辰
+- **软件著作权:** 基于计算机视觉的零部件表面缺陷检测系统 (2022SR1000030) **刘东**, 曾胜彬，杨景麟，翟文慧，谈雨辰，张锋
 - **软件著作权:** 基于计算机视觉的脊柱侧弯辅助诊断系统 (2022SR0275464) **刘东**，张灵荣，杨景麟
 
 #  &#128269; Professional Service
