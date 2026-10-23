@@ -18,6 +18,8 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 #  &#128227; News
 - *10/2026*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Unifying Amplitude-Phase Coupling and Reliable Endogenous Priors for Low-Light Image Enhancement*) accepted to ***IEEE TMM***.
+- *06/2026*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*GPLwS: Attribute-guided prompt learning with stability for few-shot remote sensing image scene classification, Expert Systems with Applications*) accepted to ***Expert Systems with Applications***.
+- *04/2026*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*T2Net: Taxonomy-Guided Tree-Structured Prompt Learning for Few-Shot Remote Sensing Scene Classification*) accepted to ***ISPRS Journal of Photogrammetry and Remote Sensing***.
 - *06/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS***.
 - *05/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery*) accepted to ***KBS***.
 - *04/2025*: &nbsp;  &#127881; &#127881; One paper about Segmentation (*Open-Set Domain Adpation*) accepted to ***Complex &  Intelligent Systems***.
